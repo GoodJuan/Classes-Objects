@@ -16,6 +16,6 @@ public class Car {
 	public void getInfo(){
 		System.out.println("This is a " + brand + "\n It's cost is around " + cost + "\n It's max speed is " + maxSpd + "\n It is a race car or not" + raceCar);
 
-	}
+	}	
 	
 }
